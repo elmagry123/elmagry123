@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hussien Elmagry</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Findoanalytica.com%2Fdata-science%2F&psig=AOvVaw3iC26Y3KQ-nm1fNaAMkJtg&ust=1698508697311000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiQxYrMloIDFQAAAAAdAAAAABAR
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Findoanalytica.com%2Fdata-science%2F&psig=AOvVaw3iC26Y3KQ-nm1fNaAMkJtg&ust=1698508697311000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiQxYrMloIDFQAAAAAdAAAAABAR>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
