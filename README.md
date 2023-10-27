@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hussien Elmagry</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-![data-science-2](https://github.com/elmagry123/elmagry123/assets/124198691/bff79aae-d819-4433-8f36-c1bf38c40ae7)
 
+![60d35967a853a1b14851703b_All the data (1)](https://github.com/elmagry123/elmagry123/assets/124198691/6f75907f-0370-42ab-9a3f-408ed93cdca1)
 
 
 <h3 align="left">Connect with me:</h3>
