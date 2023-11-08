@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hussien Elmagry</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Always+believing;Studt+Hard" alt="Typing SVG" /></a>
-  ![60d35967a853a1b14851703b_All the data (1)](https://github.com/elmagry123/elmagry123/assets/124198691/6f75907f-0370-42ab-9a3f-408ed93cdca1)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Always+believing" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
