@@ -1,6 +1,6 @@
 ## AbdElrahman Hussien Elmagry <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
 
-I am currently studying bioinformatics and working on developing my technical skills. Having a strong foundation in data analysis, machine learning, and cloud computing excites me for its potential to revolutionize scientific research.
+I am currently studying Computer Science Engineering and working on developing my technical skills. Having a strong foundation in data analysis, machine learning, and cloud computing excites me for its potential to revolutionize scientific research.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Bioinformatics%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
