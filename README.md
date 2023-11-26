@@ -1,10 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Hussien Elmagry</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=true&width=500&lines=Always+believing" alt="Typing SVG" /></a><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://l.facebook.com/l.php?u=https%3a%2f%2flinkedin.com%2fin%2felmagry123%3ffbclid%3diwar0dtjtn5bwdhrrguaihjlm7wvz1iu9-uocbhcrceaxq8apabt4xly65xvm&h=at2s1a_karl-y_coqzfyr6ag8z9e9tdcuz1yzsqaekscpsgq4gm7snuab2poomxl904skn-58odnuzfspdakhpiqsxri7jrmtosx2pclpz4zfqxwmeznzgy0ko0ff4m0ycfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://l.facebook.com/l.php?u=https%3a%2f%2flinkedin.com%2fin%2felmagry123%3ffbclid%3diwar0dtjtn5bwdhrrguaihjlm7wvz1iu9-uocbhcrceaxq8apabt4xly65xvm&h=at2s1a_karl-y_coqzfyr6ag8z9e9tdcuz1yzsqaekscpsgq4gm7snuab2poomxl904skn-58odnuzfspdakhpiqsxri7jrmtosx2pclpz4zfqxwmeznzgy0ko0ff4m0ycfm" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdo.mgry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdo.mgry" height="30" width="40" /></a>
-</p>
+ ## AbdElrahman Hussien Elmagry <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
+I am currently studying Computer Cience Engineering and working on developing my technical skills. Having a strong foundation in Data Analysis and Machine learning, which excites me.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Data Analysis%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
+</p> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Study%20Hard ;&font=Fira%20Code&center=true&width=440&height=45&color=bd7dbd&vCenter=true&size=22"></a>
+</p> 
+
+### Take a Glance 👩‍💻
+[![LinkedIn]( https://www.linkedin.com/in/elmagry123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/elmagry123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+### Where I Share my Knowledge and Insights "SEPA🔥"
+<p style="margin-top: 0">S Serotonin 👩‍🔬<br>
+E Endorphins 🧬<br>
+P Programming, Productivity 💻💪🏻<br>
+A Articles 📝</p>
+
+[![YouTube](https://img.shields.io/badge/-YouTube-bd7dbd?style=for-the-badge&logo=youtube)](https://youtube.com/@sepa5794)  [![Telegram](https://img.shields.io/badge/-Channel-bd7dbd?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SEPAchannel)
+<a href="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
+    <img src="https://komarev.com/ghpvc/?username=mennahmabrouk&style=for-the-badge&color=bd7dbd">
+</a>
+### Tech Stack🛠
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennahmabrouk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Used Languages" />
+
+<br>
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=Orange)&nbsp;
+![C++](https://img.shields.io/badge/c++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=cyan)&nbsp;
+![C#](https://img.shields.io/badge/c%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=green)&nbsp;
+![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+
+
