@@ -1,6 +1,10 @@
-## AbdElrahman Hussien Elmagry <img src="https://media.tenor.com/NR-Kr20l4d4AAAAi/anime-hi.gif" width="50">
+## AbdElrahman Hussien Elmagry <img src="URL_TO_YOUR_IMAGE" width="50">
 
 I am currently studying machine learning and working on developing my technical skills. Having a strong foundation in data analysis, machine learning, and cloud computing excites me for its potential to revolutionize scientific research.
+
+<p align="center">
+  <img src="URL_TO_BOY_IMAGE" alt="Boy working on a computer" width="200">
+</p> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Never%20Give-Up;Machine%20Learning%20;&font=Fira%20Code&center=true&width=440&height=45&color=A020F0&vCenter=true&size=22"></a>
